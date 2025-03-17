@@ -60,7 +60,7 @@ export function Header() {
             initial={{ y: -100 }}
             animate={{ y: 0 }}
             transition={{ type: 'spring', stiffness: 100, damping: 15 }}>
-            <div className='flex h-16 items-center justify-between container mx-auto'>
+            <div className='flex h-16 items-center justify-between container px-4 mx-auto'>
                 <motion.div
                     className='flex items-center gap-2'
                     initial={{ opacity: 0 }}

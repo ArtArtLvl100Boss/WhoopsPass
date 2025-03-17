@@ -374,7 +374,7 @@ export default function VaultPage() {
     return (
         <>
             <Header />
-            <div className='container py-8 mx-auto'>
+            <div className='container px-4 py-8 mx-auto'>
                 <div className='flex flex-col md:flex-row justify-between items-start md:items-center mb-6 gap-4'>
                     <div>
                         <h1 className='text-3xl font-bold'>Password Vault</h1>

@@ -58,7 +58,7 @@ export function AnimatedFooter() {
                 ))}
             </div>
 
-            <div className='container mx-auto relative z-10'>
+            <div className='container px-4 mx-auto relative z-10'>
                 <motion.div
                     className='grid grid-cols-1 md:grid-cols-3 gap-8'
                     variants={containerVariants}

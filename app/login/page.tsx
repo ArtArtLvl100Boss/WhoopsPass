@@ -48,7 +48,7 @@ export default function LoginPage() {
     return (
         <>
             <Header />
-            <div className='container flex items-center justify-center min-h-[calc(100vh-4rem)] py-12 mx-auto'>
+            <div className='container px-4 flex items-center justify-center min-h-[calc(100vh-4rem)] py-12 mx-auto'>
                 <Card className='w-full max-w-md mx-auto'>
                     <CardHeader className='space-y-1'>
                         <div className='flex justify-center mb-4'>
